@@ -1,10 +1,12 @@
-package com.example.xuqiang.myloadmorelvdemo;
+package com.example.xuqiang.myloadmorelvdemo.demo1;
 
 import android.content.Context;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.TextView;
+
+import com.example.xuqiang.myloadmorelvdemo.R;
 
 import java.util.List;
 

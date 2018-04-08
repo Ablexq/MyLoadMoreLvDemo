@@ -4,11 +4,10 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.example.xuqiang.myloadmorelvdemo.MainActivity">
+    tools:context="com.example.xuqiang.myloadmorelvdemo.demo1.MainActivity">
 
-    <com.example.xuqiang.myloadmorelvdemo.LoadMoreListView
+    <com.example.xuqiang.myloadmorelvdemo.demo1.LoadMoreListView
         android:id="@+id/loadMoreListView"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
-
 </LinearLayout>

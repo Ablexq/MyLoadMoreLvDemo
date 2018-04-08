@@ -1,10 +1,12 @@
-package com.example.xuqiang.myloadmorelvdemo;
+package com.example.xuqiang.myloadmorelvdemo.demo1;
 
 import android.content.Context;
 import android.util.AttributeSet;
 import android.view.View;
 import android.widget.AbsListView;
 import android.widget.ListView;
+
+import com.example.xuqiang.myloadmorelvdemo.R;
 
 
 /**

@@ -1,8 +1,10 @@
-package com.example.xuqiang.myloadmorelvdemo;
+package com.example.xuqiang.myloadmorelvdemo.demo1;
 
 import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.example.xuqiang.myloadmorelvdemo.R;
 
 import java.util.ArrayList;
 import java.util.List;
